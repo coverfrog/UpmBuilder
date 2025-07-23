@@ -1,0 +1,15 @@
+{
+  "name": "com.cf.upm",
+  "version": "1.0.0",
+  "displayName": "com.cf.upm",
+  "description": "com.cf.upm",
+  "unity": null,
+  "unityRelease": null,
+  "dependencies": {},
+  "keywords": [],
+  "author": {
+    "name": null,
+    "email": null,
+    "url": null
+  }
+}

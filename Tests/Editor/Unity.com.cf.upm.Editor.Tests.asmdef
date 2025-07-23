@@ -1,0 +1,19 @@
+{
+  "name": "com.cf.upm.Editor.Tests",
+  "rootNamespace": "Cf.Upm.Builder.Editor.Tests",
+  "references": [
+    "com.cf.upm",
+    "com.cf.upm.Tests"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
